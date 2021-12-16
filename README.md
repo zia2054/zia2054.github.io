@@ -1,9 +1,6 @@
 <초기 작업>
-
-github에 블로그 제작을 위한 Repository 생성 (Repo 이름: <username>.github.io)
-  
+github에 블로그 제작을 위한 Repository 생성 (Repo 이름: <username>.github.io) 
 생성 이후 Romote Repository 주소를 복사하고 명령 프로프트에서 git clone을 통해 Local-Remote Repository 연동
-  
 (git clone <repo_name><path> → git clone https://github.com/zia2054/zia2054.github.io.git blog)
   
 
