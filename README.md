@@ -20,3 +20,4 @@ zia2054.github.io 사이트에 접속하면 블로그 확인 가능
 # <블로그 사용 방법> 
 BLOG의 _post 폴더에 Markdown형식을 통해 내용 작성 작성 이후 추가된 파일을 꼭 add, commit, push 해야함!!! 
 테마는 원하는 테마 선택 후 jekyll파일이 담겨있는 폴더에 저장 후 적용
+파일 add후 warning: LF will be replaced by CRLF 이런 문구가 뜬다면 got config --global core.autocrlf true 코드를 사용하여 해결
