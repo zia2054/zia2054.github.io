@@ -1,7 +1,7 @@
 # Setup
 title:               Blog
 tagline:             'zia'
-description:         홈 버튼을 눌러주세요!
+description:         
 baseurl:             ''
 paginate:            5
 permalink:           pretty
